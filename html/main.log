@@ -1,0 +1,656 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.14)  3 APR 2022 23:20
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/dilsh/Documents/Courses/ELEC4700/Assignments/assign4/html/main.tex
+(c:/Users/dilsh/Documents/Courses/ELEC4700/Assignments/assign4/html/main.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22> (C:\Users\dilsh\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\dilsh\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (C:\Users\dilsh\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\dilsh\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (C:\Users\dilsh\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\dilsh\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\dilsh\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\dilsh\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (C:\Users\dilsh\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2021/10/11 v1.3b Standard LaTeX Color (DPC)
+ (C:\Users\dilsh\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+) (C:\Users\dilsh\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count191
+\l__pdf_internal_box=\box50
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+ (C:\Users\dilsh\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count192
+\scratchdimen=\dimen141
+\scratchbox=\box51
+\nofMPsegments=\count193
+\nofMParguments=\count194
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count195
+\MPscratchDim=\dimen142
+\MPnumerator=\count196
+\makeMPintoPDFobject=\count197
+\everyMPtoPDFconversion=\toks18
+) (C:\Users\dilsh\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\dilsh\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)) [1
+
+{C:/Users/dilsh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Package epstopdf Info: Source file: <main_01.eps>
+(epstopdf)                    date: 2022-04-03 18:00:15
+(epstopdf)                    size: 35028 bytes
+(epstopdf)             Output file: <main_01-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:36:15
+(epstopdf)                    size: 14796 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_01-eps-converted-to.pdf main_01.eps>
+(epstopdf)             \includegraphics on input line 104.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_01-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_01-eps-converted-to.pdf, id=9, 364.36125pt x 303.1325pt>
+File: main_01-eps-converted-to.pdf Graphic file (type pdf)
+<use main_01-eps-converted-to.pdf>
+Package pdftex.def Info: main_01-eps-converted-to.pdf  used on input line 104.
+(pdftex.def)             Requested size: 289.07999pt x 240.50815pt.
+[2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 109.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 109.
+ [3 <./main_01-eps-converted-to.pdf>] [4]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 217.
+ (C:\Users\dilsh\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 217.
+ [5] [6]
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 311--311
+[]            \OT1/cmtt/m/n/10 0   2.5000e-01  -2.5000e-01            0            0            0[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 311--311
+[]            \OT1/cmtt/m/n/10 0  -2.5000e-01   2.5000e-01            0            0            0[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 311--311
+[]            \OT1/cmtt/m/n/10 0            0            0            0            0            0[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 311--311
+[]            \OT1/cmtt/m/n/10 0            0            0            0            0            0[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 311--311
+[]            \OT1/cmtt/m/n/10 0            0            0            0            0            0[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 311--311
+[]            \OT1/cmtt/m/n/10 0            0            0            0            0            0[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 311--311
+[]            \OT1/cmtt/m/n/10 0            0            0            0            0            0[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 311--311
+[]            \OT1/cmtt/m/n/10 0            0            0  -2.0000e-01            0            0[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 311--311
+[]   \OT1/cmtt/m/n/10 1.0000e+00   1.0000e+00  -1.0000e+00            0            0            0[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 311--311
+[]            \OT1/cmtt/m/n/10 0  -1.0000e+00   1.5000e+00   1.0000e+00            0            0[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 311--311
+[]            \OT1/cmtt/m/n/10 0            0            0  -1.0000e+00   1.0000e+00            0[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 311--311
+[]            \OT1/cmtt/m/n/10 0            0            0            0            0  -1.0000e+00[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 311--311
+[]            \OT1/cmtt/m/n/10 0            0            0            0            0            0[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 311--311
+[]            \OT1/cmtt/m/n/10 0   1.0000e+00            0            0            0            0[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 311--311
+[]            \OT1/cmtt/m/n/10 0            0            0            0  -1.0000e+02            0[] 
+ []
+
+
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 311--311
+[]            \OT1/cmtt/m/n/10 0            0   1.0000e+00            0  -1.4079e+01            0[] 
+ []
+
+[7]
+Package epstopdf Info: Source file: <main_02.eps>
+(epstopdf)                    date: 2022-04-03 18:00:17
+(epstopdf)                    size: 17567 bytes
+(epstopdf)             Output file: <main_02-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:36:17
+(epstopdf)                    size: 9073 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_02-eps-converted-to.pdf main_02.eps>
+(epstopdf)             \includegraphics on input line 319.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_02-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_02-eps-converted-to.pdf, id=43, 364.36125pt x 303.1325pt>
+File: main_02-eps-converted-to.pdf Graphic file (type pdf)
+<use main_02-eps-converted-to.pdf>
+Package pdftex.def Info: main_02-eps-converted-to.pdf  used on input line 319.
+(pdftex.def)             Requested size: 289.07999pt x 240.50815pt.
+Package epstopdf Info: Source file: <main_03.eps>
+(epstopdf)                    date: 2022-04-03 18:00:20
+(epstopdf)                    size: 19654 bytes
+(epstopdf)             Output file: <main_03-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:36:19
+(epstopdf)                    size: 10713 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_03-eps-converted-to.pdf main_03.eps>
+(epstopdf)             \includegraphics on input line 334.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_03-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_03-eps-converted-to.pdf, id=44, 364.36125pt x 303.1325pt>
+File: main_03-eps-converted-to.pdf Graphic file (type pdf)
+<use main_03-eps-converted-to.pdf>
+Package pdftex.def Info: main_03-eps-converted-to.pdf  used on input line 334.
+(pdftex.def)             Requested size: 289.07999pt x 240.50815pt.
+[8 <./main_02-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <main_04.eps>
+(epstopdf)                    date: 2022-04-03 18:00:20
+(epstopdf)                    size: 17917 bytes
+(epstopdf)             Output file: <main_04-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:36:20
+(epstopdf)                    size: 9444 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_04-eps-converted-to.pdf main_04.eps>
+(epstopdf)             \includegraphics on input line 336.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_04-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_04-eps-converted-to.pdf, id=56, 364.36125pt x 303.1325pt>
+File: main_04-eps-converted-to.pdf Graphic file (type pdf)
+<use main_04-eps-converted-to.pdf>
+Package pdftex.def Info: main_04-eps-converted-to.pdf  used on input line 336.
+(pdftex.def)             Requested size: 289.07999pt x 240.50815pt.
+Package epstopdf Info: Source file: <main_05.eps>
+(epstopdf)                    date: 2022-04-03 18:00:23
+(epstopdf)                    size: 1204411 bytes
+(epstopdf)             Output file: <main_05-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:36:24
+(epstopdf)                    size: 17044 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_05-eps-converted-to.pdf main_05.eps>
+(epstopdf)             \includegraphics on input line 344.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_05-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_05-eps-converted-to.pdf, id=57, 349.305pt x 301.125pt>
+File: main_05-eps-converted-to.pdf Graphic file (type pdf)
+<use main_05-eps-converted-to.pdf>
+Package pdftex.def Info: main_05-eps-converted-to.pdf  used on input line 344.
+(pdftex.def)             Requested size: 289.07999pt x 249.22148pt.
+[9 <./main_03-eps-converted-to.pdf> <./main_04-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <main_06.eps>
+(epstopdf)                    date: 2022-04-03 18:00:23
+(epstopdf)                    size: 1569904 bytes
+(epstopdf)             Output file: <main_06-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:36:28
+(epstopdf)                    size: 19112 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_06-eps-converted-to.pdf main_06.eps>
+(epstopdf)             \includegraphics on input line 346.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_06-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_06-eps-converted-to.pdf, id=77, 347.2975pt x 304.13625pt>
+File: main_06-eps-converted-to.pdf Graphic file (type pdf)
+<use main_06-eps-converted-to.pdf>
+Package pdftex.def Info: main_06-eps-converted-to.pdf  used on input line 346.
+(pdftex.def)             Requested size: 289.07999pt x 253.1616pt.
+[10 <./main_05-eps-converted-to.pdf> <./main_06-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <main_07.eps>
+(epstopdf)                    date: 2022-04-03 18:14:11
+(epstopdf)                    size: 141330 bytes
+(epstopdf)             Output file: <main_07-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:36:29
+(epstopdf)                    size: 33044 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_07-eps-converted-to.pdf main_07.eps>
+(epstopdf)             \includegraphics on input line 391.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_07-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_07-eps-converted-to.pdf, id=99, 422.57875pt x 317.185pt>
+File: main_07-eps-converted-to.pdf Graphic file (type pdf)
+<use main_07-eps-converted-to.pdf>
+Package pdftex.def Info: main_07-eps-converted-to.pdf  used on input line 391.
+(pdftex.def)             Requested size: 289.07999pt x 216.98485pt.
+[11]
+Package epstopdf Info: Source file: <main_08.eps>
+(epstopdf)                    date: 2022-04-03 18:14:14
+(epstopdf)                    size: 59103 bytes
+(epstopdf)             Output file: <main_08-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:36:31
+(epstopdf)                    size: 20523 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_08-eps-converted-to.pdf main_08.eps>
+(epstopdf)             \includegraphics on input line 393.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_08-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_08-eps-converted-to.pdf, id=103, 369.38pt x 296.10625pt>
+File: main_08-eps-converted-to.pdf Graphic file (type pdf)
+<use main_08-eps-converted-to.pdf>
+Package pdftex.def Info: main_08-eps-converted-to.pdf  used on input line 393.
+(pdftex.def)             Requested size: 289.07999pt x 231.73454pt.
+Package epstopdf Info: Source file: <main_09.eps>
+(epstopdf)                    date: 2022-04-03 18:14:14
+(epstopdf)                    size: 54111 bytes
+(epstopdf)             Output file: <main_09-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:36:33
+(epstopdf)                    size: 14487 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_09-eps-converted-to.pdf main_09.eps>
+(epstopdf)             \includegraphics on input line 395.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_09-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_09-eps-converted-to.pdf, id=104, 369.38pt x 296.10625pt>
+File: main_09-eps-converted-to.pdf Graphic file (type pdf)
+<use main_09-eps-converted-to.pdf>
+Package pdftex.def Info: main_09-eps-converted-to.pdf  used on input line 395.
+(pdftex.def)             Requested size: 289.07999pt x 231.73454pt.
+[12 <./main_07-eps-converted-to.pdf> <./main_08-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <main_10.eps>
+(epstopdf)                    date: 2022-04-03 18:28:05
+(epstopdf)                    size: 503735 bytes
+(epstopdf)             Output file: <main_10-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:36:35
+(epstopdf)                    size: 101168 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_10-eps-converted-to.pdf main_10.eps>
+(epstopdf)             \includegraphics on input line 410.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_10-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_10-eps-converted-to.pdf, id=121, 422.57875pt x 317.185pt>
+File: main_10-eps-converted-to.pdf Graphic file (type pdf)
+<use main_10-eps-converted-to.pdf>
+Package pdftex.def Info: main_10-eps-converted-to.pdf  used on input line 410.
+(pdftex.def)             Requested size: 289.07999pt x 216.98485pt.
+[13 <./main_09-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <main_11.eps>
+(epstopdf)                    date: 2022-04-03 18:28:08
+(epstopdf)                    size: 59362 bytes
+(epstopdf)             Output file: <main_11-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:36:37
+(epstopdf)                    size: 20628 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_11-eps-converted-to.pdf main_11.eps>
+(epstopdf)             \includegraphics on input line 412.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_11-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_11-eps-converted-to.pdf, id=134, 367.3725pt x 296.10625pt>
+File: main_11-eps-converted-to.pdf Graphic file (type pdf)
+<use main_11-eps-converted-to.pdf>
+Package pdftex.def Info: main_11-eps-converted-to.pdf  used on input line 412.
+(pdftex.def)             Requested size: 289.07999pt x 233.01772pt.
+Package epstopdf Info: Source file: <main_12.eps>
+(epstopdf)                    date: 2022-04-03 18:28:08
+(epstopdf)                    size: 54401 bytes
+(epstopdf)             Output file: <main_12-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:36:39
+(epstopdf)                    size: 14232 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_12-eps-converted-to.pdf main_12.eps>
+(epstopdf)             \includegraphics on input line 414.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_12-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_12-eps-converted-to.pdf, id=135, 369.38pt x 296.10625pt>
+File: main_12-eps-converted-to.pdf Graphic file (type pdf)
+<use main_12-eps-converted-to.pdf>
+Package pdftex.def Info: main_12-eps-converted-to.pdf  used on input line 414.
+(pdftex.def)             Requested size: 289.07999pt x 231.73454pt.
+[14 <./main_10-eps-converted-to.pdf> <./main_11-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <main_13.eps>
+(epstopdf)                    date: 2022-04-03 18:42:32
+(epstopdf)                    size: 355229 bytes
+(epstopdf)             Output file: <main_13-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:36:41
+(epstopdf)                    size: 105310 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_13-eps-converted-to.pdf main_13.eps>
+(epstopdf)             \includegraphics on input line 429.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_13-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_13-eps-converted-to.pdf, id=152, 422.57875pt x 317.185pt>
+File: main_13-eps-converted-to.pdf Graphic file (type pdf)
+<use main_13-eps-converted-to.pdf>
+Package pdftex.def Info: main_13-eps-converted-to.pdf  used on input line 429.
+(pdftex.def)             Requested size: 289.07999pt x 216.98485pt.
+[15 <./main_12-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <main_14.eps>
+(epstopdf)                    date: 2022-04-03 18:42:35
+(epstopdf)                    size: 58146 bytes
+(epstopdf)             Output file: <main_14-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:36:43
+(epstopdf)                    size: 19585 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_14-eps-converted-to.pdf main_14.eps>
+(epstopdf)             \includegraphics on input line 431.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_14-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_14-eps-converted-to.pdf, id=164, 367.3725pt x 296.10625pt>
+File: main_14-eps-converted-to.pdf Graphic file (type pdf)
+<use main_14-eps-converted-to.pdf>
+Package pdftex.def Info: main_14-eps-converted-to.pdf  used on input line 431.
+(pdftex.def)             Requested size: 289.07999pt x 233.01772pt.
+Package epstopdf Info: Source file: <main_15.eps>
+(epstopdf)                    date: 2022-04-03 18:42:35
+(epstopdf)                    size: 52214 bytes
+(epstopdf)             Output file: <main_15-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:36:45
+(epstopdf)                    size: 13148 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_15-eps-converted-to.pdf main_15.eps>
+(epstopdf)             \includegraphics on input line 433.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_15-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_15-eps-converted-to.pdf, id=165, 369.38pt x 296.10625pt>
+File: main_15-eps-converted-to.pdf Graphic file (type pdf)
+<use main_15-eps-converted-to.pdf>
+Package pdftex.def Info: main_15-eps-converted-to.pdf  used on input line 433.
+(pdftex.def)             Requested size: 289.07999pt x 231.73454pt.
+[16 <./main_13-eps-converted-to.pdf> <./main_14-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <main_16.eps>
+(epstopdf)                    date: 2022-04-03 18:59:40
+(epstopdf)                    size: 131259 bytes
+(epstopdf)             Output file: <main_16-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:36:47
+(epstopdf)                    size: 38124 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_16-eps-converted-to.pdf main_16.eps>
+(epstopdf)             \includegraphics on input line 448.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_16-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_16-eps-converted-to.pdf, id=182, 422.57875pt x 317.185pt>
+File: main_16-eps-converted-to.pdf Graphic file (type pdf)
+<use main_16-eps-converted-to.pdf>
+Package pdftex.def Info: main_16-eps-converted-to.pdf  used on input line 448.
+(pdftex.def)             Requested size: 289.07999pt x 216.98485pt.
+[17 <./main_15-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <main_17.eps>
+(epstopdf)                    date: 2022-04-03 18:59:46
+(epstopdf)                    size: 58765 bytes
+(epstopdf)             Output file: <main_17-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:36:48
+(epstopdf)                    size: 20941 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_17-eps-converted-to.pdf main_17.eps>
+(epstopdf)             \includegraphics on input line 450.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_17-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_17-eps-converted-to.pdf, id=194, 367.3725pt x 296.10625pt>
+File: main_17-eps-converted-to.pdf Graphic file (type pdf)
+<use main_17-eps-converted-to.pdf>
+Package pdftex.def Info: main_17-eps-converted-to.pdf  used on input line 450.
+(pdftex.def)             Requested size: 289.07999pt x 233.01772pt.
+Package epstopdf Info: Source file: <main_18.eps>
+(epstopdf)                    date: 2022-04-03 18:59:47
+(epstopdf)                    size: 55649 bytes
+(epstopdf)             Output file: <main_18-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:36:50
+(epstopdf)                    size: 16212 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_18-eps-converted-to.pdf main_18.eps>
+(epstopdf)             \includegraphics on input line 452.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_18-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_18-eps-converted-to.pdf, id=195, 362.35374pt x 296.10625pt>
+File: main_18-eps-converted-to.pdf Graphic file (type pdf)
+<use main_18-eps-converted-to.pdf>
+Package pdftex.def Info: main_18-eps-converted-to.pdf  used on input line 452.
+(pdftex.def)             Requested size: 289.07999pt x 236.23468pt.
+[18 <./main_16-eps-converted-to.pdf> <./main_17-eps-converted-to.pdf>] [19 <./main_18-eps-converted-to.pdf>] [20]
+Package epstopdf Info: Source file: <main_19.eps>
+(epstopdf)                    date: 2022-04-03 19:32:31
+(epstopdf)                    size: 164921 bytes
+(epstopdf)             Output file: <main_19-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:36:52
+(epstopdf)                    size: 52026 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_19-eps-converted-to.pdf main_19.eps>
+(epstopdf)             \includegraphics on input line 530.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_19-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_19-eps-converted-to.pdf, id=227, 422.57875pt x 317.185pt>
+File: main_19-eps-converted-to.pdf Graphic file (type pdf)
+<use main_19-eps-converted-to.pdf>
+Package pdftex.def Info: main_19-eps-converted-to.pdf  used on input line 530.
+(pdftex.def)             Requested size: 289.07999pt x 216.98485pt.
+Package epstopdf Info: Source file: <main_20.eps>
+(epstopdf)                    date: 2022-04-03 19:32:36
+(epstopdf)                    size: 58007 bytes
+(epstopdf)             Output file: <main_20-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:36:54
+(epstopdf)                    size: 18731 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_20-eps-converted-to.pdf main_20.eps>
+(epstopdf)             \includegraphics on input line 532.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_20-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_20-eps-converted-to.pdf, id=228, 362.35374pt x 296.10625pt>
+File: main_20-eps-converted-to.pdf Graphic file (type pdf)
+<use main_20-eps-converted-to.pdf>
+Package pdftex.def Info: main_20-eps-converted-to.pdf  used on input line 532.
+(pdftex.def)             Requested size: 289.07999pt x 236.23468pt.
+[21 <./main_19-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <main_21.eps>
+(epstopdf)                    date: 2022-04-03 19:32:38
+(epstopdf)                    size: 58084 bytes
+(epstopdf)             Output file: <main_21-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:36:56
+(epstopdf)                    size: 18846 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_21-eps-converted-to.pdf main_21.eps>
+(epstopdf)             \includegraphics on input line 553.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_21-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_21-eps-converted-to.pdf, id=237, 362.35374pt x 296.10625pt>
+File: main_21-eps-converted-to.pdf Graphic file (type pdf)
+<use main_21-eps-converted-to.pdf>
+Package pdftex.def Info: main_21-eps-converted-to.pdf  used on input line 553.
+(pdftex.def)             Requested size: 289.07999pt x 236.23468pt.
+[22 <./main_20-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <main_22.eps>
+(epstopdf)                    date: 2022-04-03 19:32:39
+(epstopdf)                    size: 58097 bytes
+(epstopdf)             Output file: <main_22-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:36:58
+(epstopdf)                    size: 18809 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_22-eps-converted-to.pdf main_22.eps>
+(epstopdf)             \includegraphics on input line 555.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_22-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_22-eps-converted-to.pdf, id=249, 362.35374pt x 296.10625pt>
+File: main_22-eps-converted-to.pdf Graphic file (type pdf)
+<use main_22-eps-converted-to.pdf>
+Package pdftex.def Info: main_22-eps-converted-to.pdf  used on input line 555.
+(pdftex.def)             Requested size: 289.07999pt x 236.23468pt.
+Package epstopdf Info: Source file: <main_23.eps>
+(epstopdf)                    date: 2022-04-03 19:32:39
+(epstopdf)                    size: 55112 bytes
+(epstopdf)             Output file: <main_23-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:36:59
+(epstopdf)                    size: 15341 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_23-eps-converted-to.pdf main_23.eps>
+(epstopdf)             \includegraphics on input line 557.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_23-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_23-eps-converted-to.pdf, id=250, 362.35374pt x 296.10625pt>
+File: main_23-eps-converted-to.pdf Graphic file (type pdf)
+<use main_23-eps-converted-to.pdf>
+Package pdftex.def Info: main_23-eps-converted-to.pdf  used on input line 557.
+(pdftex.def)             Requested size: 289.07999pt x 236.23468pt.
+[23 <./main_21-eps-converted-to.pdf> <./main_22-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <main_24.eps>
+(epstopdf)                    date: 2022-04-03 19:32:42
+(epstopdf)                    size: 52686 bytes
+(epstopdf)             Output file: <main_24-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:37:01
+(epstopdf)                    size: 20157 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_24-eps-converted-to.pdf main_24.eps>
+(epstopdf)             \includegraphics on input line 577.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_24-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_24-eps-converted-to.pdf, id=270, 368.37625pt x 306.14375pt>
+File: main_24-eps-converted-to.pdf Graphic file (type pdf)
+<use main_24-eps-converted-to.pdf>
+Package pdftex.def Info: main_24-eps-converted-to.pdf  used on input line 577.
+(pdftex.def)             Requested size: 289.07999pt x 240.23927pt.
+[24 <./main_23-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <main_25.eps>
+(epstopdf)                    date: 2022-04-03 19:32:43
+(epstopdf)                    size: 51674 bytes
+(epstopdf)             Output file: <main_25-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:37:03
+(epstopdf)                    size: 20008 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_25-eps-converted-to.pdf main_25.eps>
+(epstopdf)             \includegraphics on input line 579.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_25-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_25-eps-converted-to.pdf, id=282, 354.32375pt x 306.14375pt>
+File: main_25-eps-converted-to.pdf Graphic file (type pdf)
+<use main_25-eps-converted-to.pdf>
+Package pdftex.def Info: main_25-eps-converted-to.pdf  used on input line 579.
+(pdftex.def)             Requested size: 289.07999pt x 249.77821pt.
+Package epstopdf Info: Source file: <main_26.eps>
+(epstopdf)                    date: 2022-04-03 19:32:45
+(epstopdf)                    size: 51427 bytes
+(epstopdf)             Output file: <main_26-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-03 20:37:05
+(epstopdf)                    size: 19858 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=main_26-eps-converted-to.pdf main_26.eps>
+(epstopdf)             \includegraphics on input line 581.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./main_26-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<main_26-eps-converted-to.pdf, id=283, 358.33875pt x 306.14375pt>
+File: main_26-eps-converted-to.pdf Graphic file (type pdf)
+<use main_26-eps-converted-to.pdf>
+Package pdftex.def Info: main_26-eps-converted-to.pdf  used on input line 581.
+(pdftex.def)             Requested size: 289.07999pt x 246.98941pt.
+[25 <./main_24-eps-converted-to.pdf> <./main_25-eps-converted-to.pdf>] [26 <./main_26-eps-converted-to.pdf>] (main.aux) ) 
+Here is how much of TeX's memory you used:
+ 1535 strings out of 478659
+ 28287 string characters out of 2845919
+ 342822 words of memory out of 3000000
+ 19648 multiletter control sequences out of 15000+600000
+ 404538 words of font info for 31 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,6n,62p,1357b,267s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\dilsh\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/dilsh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/dilsh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/dilsh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/dilsh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/dilsh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/dilsh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/dilsh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/dilsh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/dilsh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on main.pdf (26 pages, 783524 bytes).
+PDF statistics:
+ 357 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+
